@@ -8,8 +8,8 @@
       "email": "rahul.sharma@oelcorp.com",
       "department": "Procurement",
       "source": "Web",
-      "phone": {
-        "default": "040-27112233",
+      "phones": {
+        "phone": "040-27112233",
         "mobile": "9874512360",
         "home": "040-22114455",
         "fax": "040-27889911"
@@ -23,8 +23,8 @@
       "email": "anita.verma@oelcorp.com",
       "department": "Finance",
       "source": "Partner Referral",
-      "phone": {
-        "default": "040-27113344",
+      "phones": {
+        "phone": "040-27113344",
         "mobile": "9845123780",
         "home": "040-22446688",
         "fax": "040-27991122"
@@ -37,9 +37,9 @@
       "title": "Operations Head",
       "email": "suresh.kumar@oelcorp.com",
       "department": "Operations",
-      "source": "Phone Inquiry",
-      "phone": {
-        "default": "040-27114455",
+      "source": "phones Inquiry",
+      "phones": {
+        "phone": "040-27114455",
         "mobile": "9032113456",
         "home": "040-22668899",
         "fax": "040-27119933"
@@ -53,8 +53,8 @@
       "email": "priya.nair@oelcorp.com",
       "department": "Sales",
       "source": "Purchased List",
-      "phone": {
-        "default": "040-27115566",
+      "phones": {
+        "phone": "040-27115566",
         "mobile": "9678123409",
         "home": "040-22889944",
         "fax": "040-27771155"
@@ -68,8 +68,8 @@
       "email": "arun.menon@oelcorp.com",
       "department": "IT",
       "source": "Other",
-      "phone": {
-        "default": "040-27116677",
+      "phones": {
+        "phone": "040-27116677",
         "mobile": "9987234100",
         "home": "040-22994455",
         "fax": "040-27992233"
@@ -83,8 +83,8 @@
       "email": "meera.kapoor@oelcorp.com",
       "department": "Marketing",
       "source": "Web",
-      "phone": {
-        "default": "040-27117788",
+      "phones": {
+        "phone": "040-27117788",
         "mobile": "9098124578",
         "home": "040-22338899",
         "fax": "040-27998811"
@@ -97,9 +97,9 @@
       "title": "Business Analyst",
       "email": "vikas.reddy@oelcorp.com",
       "department": "Business",
-      "source": "Phone Inquiry",
-      "phone": {
-        "default": "040-27118899",
+      "source": "phones Inquiry",
+      "phones": {
+        "phone": "040-27118899",
         "mobile": "9123456678",
         "home": "040-22445599",
         "fax": "040-27110022"
@@ -113,8 +113,8 @@
       "email": "nisha.singh@oelcorp.com",
       "department": "Human Resources",
       "source": "Partner Referral",
-      "phone": {
-        "default": "040-27119900",
+      "phones": {
+        "phone": "040-27119900",
         "mobile": "9832145678",
         "home": "040-22557744",
         "fax": "040-27772244"
@@ -128,8 +128,8 @@
       "email": "kunal.joshi@oelcorp.com",
       "department": "Legal",
       "source": "Purchased List",
-      "phone": {
-        "default": "040-27221133",
+      "phones": {
+        "phone": "040-27221133",
         "mobile": "9912345670",
         "home": "040-22556644",
         "fax": "040-27881199"
@@ -143,8 +143,8 @@
       "email": "ritika.agarwal@oelcorp.com",
       "department": "Quality",
       "source": "Other",
-      "phone": {
-        "default": "040-27222244",
+      "phones": {
+        "phone": "040-27222244",
         "mobile": "9055123409",
         "home": "040-22993322",
         "fax": "040-27990055"
@@ -158,8 +158,8 @@
       "email": "ajay.kulkarni@oelcorp.com",
       "department": "Product",
       "source": "Web",
-      "phone": {
-        "default": "040-27223355",
+      "phones": {
+        "phone": "040-27223355",
         "mobile": "9877001122",
         "home": "040-22116655",
         "fax": "040-27773366"
@@ -172,9 +172,9 @@
       "title": "Support Engineer",
       "email": "sneha.mishra@oelcorp.com",
       "department": "Support",
-      "source": "Phone Inquiry",
-      "phone": {
-        "default": "040-27224466",
+      "source": "phones Inquiry",
+      "phones": {
+        "phone": "040-27224466",
         "mobile": "9998123400",
         "home": "040-22446600",
         "fax": "040-27117744"
@@ -188,8 +188,8 @@
       "email": "roshan.dsouza@oelcorp.com",
       "department": "Field Ops",
       "source": "Purchased List",
-      "phone": {
-        "default": "040-27225577",
+      "phones": {
+        "phone": "040-27225577",
         "mobile": "9823456701",
         "home": "040-22551122",
         "fax": "040-27881234"
@@ -203,8 +203,8 @@
       "email": "divya.shetty@oelcorp.com",
       "department": "Customer Success",
       "source": "Partner Referral",
-      "phone": {
-        "default": "040-27226688",
+      "phones": {
+        "phone": "040-27226688",
         "mobile": "9034567812",
         "home": "040-22664455",
         "fax": "040-27994422"
@@ -218,8 +218,8 @@
       "email": "harish.gupta@oelcorp.com",
       "department": "Vendor Management",
       "source": "Other",
-      "phone": {
-        "default": "040-27227799",
+      "phones": {
+        "phone": "040-27227799",
         "mobile": "9934501876",
         "home": "040-22997711",
         "fax": "040-27779944"
@@ -233,8 +233,8 @@
       "email": "aditi.pillai@oelcorp.com",
       "department": "Training",
       "source": "Web",
-      "phone": {
-        "default": "040-27228811",
+      "phones": {
+        "phone": "040-27228811",
         "mobile": "9845001123",
         "home": "040-22118844",
         "fax": "040-27118855"
@@ -247,9 +247,9 @@
       "title": "Service Technician",
       "email": "rohit.babu@oelcorp.com",
       "department": "Service",
-      "source": "Phone Inquiry",
-      "phone": {
-        "default": "040-27229922",
+      "source": "phones Inquiry",
+      "phones": {
+        "phone": "040-27229922",
         "mobile": "9977003322",
         "home": "040-22991122",
         "fax": "040-27775566"
@@ -263,8 +263,8 @@
       "email": "shalini.patel@oelcorp.com",
       "department": "R&D",
       "source": "Partner Referral",
-      "phone": {
-        "default": "040-27331144",
+      "phones": {
+        "phone": "040-27331144",
         "mobile": "9867543200",
         "home": "040-22337788",
         "fax": "040-27113377"
@@ -278,8 +278,8 @@
       "email": "gaurav.mehta@oelcorp.com",
       "department": "Consulting",
       "source": "Purchased List",
-      "phone": {
-        "default": "040-27332255",
+      "phones": {
+        "phone": "040-27332255",
         "mobile": "9099223344",
         "home": "040-22552233",
         "fax": "040-27992211"
@@ -293,8 +293,8 @@
       "email": "pooja.khanna@oelcorp.com",
       "department": "Corporate",
       "source": "Other",
-      "phone": {
-        "default": "040-27333366",
+      "phones": {
+        "phone": "040-27333366",
         "mobile": "9887002211",
         "home": "040-22770011",
         "fax": "040-27553322"
